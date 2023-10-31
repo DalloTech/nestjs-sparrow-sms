@@ -3,8 +3,8 @@ This is simple wrapper for Sparrow SMS. It supports sending SMS only, but later 
 ## Installation
 
 ```bash
-$ npm i --save nestjs/sparrow-sms 
-$ yarn add nestjs/sparrow-sms 
+$ npm i --save @dallotech/nestjs-sparrow-sms 
+$ yarn add @dallotech/nestjs-sparrow-sms 
 ```
 
 #### Importing module Async
